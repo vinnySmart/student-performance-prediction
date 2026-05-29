@@ -1,8 +1,8 @@
 # AI-Powered Student Performance Prediction System
 
 **MCA 4th Semester Major Project | Chandigarh University**  
-**Subject Code:** 23ONMCR-753  
-**Student:** Vinay Kumar Rajput | Enrollment No.: 024MCA110508
+**Subject Code:** 
+**Student:** Vinay Rajput
 
 ---
 
